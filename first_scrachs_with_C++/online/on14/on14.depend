@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1493822029 source:f:\pl1\online\on14\main.c
+	<stdio.h>
+	<stdlib.h>
+
