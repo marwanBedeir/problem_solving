@@ -71,7 +71,7 @@ case 4 :
 
     o=n; /**< we use {o} to not effect in the number */
 
-  do{   /**< this loop made to fix the output number because it will missing all zeros in the right said */
+  do{   /**< this loop made to fix the output number because it will missing all zeros in the right side */
        z=o%2;
 
        if (z==0)
